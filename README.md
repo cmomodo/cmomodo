@@ -4,11 +4,23 @@ I'm a Cloud Support Engineer with experience in executing migration projects. Cu
 
 ## Connect with Me
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/twitter.svg" />][twitter]  
-[<img align="left" alt="Email" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/email.svg" />](mailto:your.email@example.com)  
-[<img align="left" alt="Medium" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" />][medium]  
-[<img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" />][portfolio]
+<p align="left">
+  <a href="https://www.linkedin.com/in/momodou-ceesay-788058193/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/linkedin.svg" alt="LinkedIn" width="26px" />
+  </a>
+  <a href="https://x.com/modoulaminc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/twitter.svg" alt="Twitter" width="26px" />
+  </a>
+  <a href="mailto:ceesay.ml@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/email.svg" alt="Email" width="26px" />
+  </a>
+  <a href="https://medium.com/@ceesay.ml" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="26px" />
+  </a>
+  <a href="https://cmomodo.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" alt="Portfolio" width="26px" />
+  </a>
+</p>
 
 <br /><br />
 
