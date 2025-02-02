@@ -3,26 +3,21 @@
 I'm a Cloud Support Engineer with experience in executing migration projects. Currently, I'm focusing on expanding my DevOps knowledge to stay ahead in this in-demand field by leveraging my skills in Linux, CI/CD pipelines, and containerization.
 
 ## Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/momodou-ceesay-788058193/" target="_blank">
-    <i class="fab fa-linkedin" style="font-size: 26px; color: #0077B5;"></i>
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/linkedin.svg" alt="LinkedIn" width="26px" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/modoulaminc/" target="_blank">
-    <i class="fab fa-twitter" style="font-size: 26px; color: #1DA1F2;"></i>
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/twitter.svg" alt="Twitter" width="26px" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ceesay.ml@outlook.com" target="_blank">
-    <i class="fas fa-envelope" style="font-size: 26px; color: #D44638;"></i>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/email.svg" alt="Email" width="26px" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://medium.com/@ceesay.ml" target="_blank">
-    <i class="fab fa-medium" style="font-size: 26px; color: #12100E;"></i>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="26px" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://cmomodo.com/" target="_blank">
-    <i class="fas fa-globe" style="font-size: 26px; color: #0A66C2;"></i>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" alt="Portfolio" width="26px" />
   </a>
 </p>
 
