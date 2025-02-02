@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Momodou 👋
 
-<!--
-**cmomodo/cmomodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cloud Support Engineer with experience in executing migration projects. Currently, I'm focusing on expanding my DevOps knowledge to stay ahead in this in-demand field by leveraging my skills in Linux, CI/CD pipelines, and containerization.
 
-Here are some ideas to get you started:
+## Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/twitter.svg" />][twitter]  
+[<img align="left" alt="Email" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/email.svg" />](mailto:your.email@example.com)  
+[<img align="left" alt="Medium" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" />][medium]  
+[<img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" />][portfolio]
+
+<br /><br />
+
+## Recent Projects 🚀
+
+- **[3 Tier VPC Deployment](https://github.com/cmomodo/cloud_bootcamp27.git)**  
+  A project that demonstrates the implementation of a multi-tier VPC architecture using AWS services. This includes resources such as EC2, Internet Gateway, VPC, Route Table, Subnet, and Security Group to manage resources across multiple availability zones and regions.
+
+- **[Project Two](https://github.com/yourusername/project-two)**  
+  A brief description about the project.
+
+- **[Project Three](https://github.com/yourusername/project-three)**  
+  A brief description about the project.
+
+## Technologies & Skills
+
+- Linux
+- DevOps (CI/CD pipelines, automation)
+- Containerization with Docker & Kubernetes
+- Cloud Platforms (AWS, Azure, GCP)
+
+## GitHub Stats
+
+[![Momodou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmomodo&show_icons=true&count_private=true)](https://github.com/cmomodo)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmomodo&layout=compact)](https://github.com/cmomodo)
+
+<!-- Links -->
+[linkedin]: https://www.linkedin.com/in/momodou-ceesay-788058193/
+[twitter]: https://x.com/modoulaminc/
+[medium]: https://medium.com/@ceesay.ml
+[portfolio]: https://cmomodo.com/
