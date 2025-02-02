@@ -2,56 +2,51 @@
 
 I'm a Cloud Support Engineer with experience in executing migration projects. Currently, I'm focusing on expanding my DevOps knowledge to stay ahead in this in-demand field by leveraging my skills in Linux, CI/CD pipelines, and containerization.
 
-## Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/momodou-ceesay-788058193/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/linkedin.svg" alt="LinkedIn" width="26px" />
+## 🔗 Connect with Me
+<div align="left">
+  <a href="https://www.linkedin.com/in/momodou-ceesay-788058193/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/modoulaminc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/twitter.svg" alt="Twitter" width="26px" />
+  <a href="https://x.com/modoulaminc/">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/master/icons/email.svg" alt="Email" width="26px" />
+  <a href="mailto:ceesay.ml@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://medium.com/@ceesay.ml" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="26px" />
+  <a href="https://medium.com/@ceesay.ml">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://cmomodo.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/internetexplorer.svg" alt="Portfolio" width="26px" />
+  <a href="https://cmomodo.com/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</div>
 
-<!-- Add Font Awesome CDN -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+## 🚀 Recent Projects
 
+### [3 Tier VPC Deployment](https://github.com/cmomodo/cloud_bootcamp27.git)
+A comprehensive implementation of a multi-tier VPC architecture using AWS services, featuring:
+- EC2 instances across multiple availability zones
+- Internet Gateway and VPC configuration
+- Route Table and Subnet management
+- Security Group implementation
+- Multi-region resource management
 
-<br /><br />
+### [Project Two](https://github.com/yourusername/project-two)
+A brief description about the project.
 
-## Recent Projects 🚀
+### [Project Three](https://github.com/yourusername/project-three)
+A brief description about the project.
 
-- **[3 Tier VPC Deployment](https://github.com/cmomodo/cloud_bootcamp27.git)**  
-  A project that demonstrates the implementation of a multi-tier VPC architecture using AWS services. This includes resources such as EC2, Internet Gateway, VPC, Route Table, Subnet, and Security Group to manage resources across multiple availability zones and regions.
+## 🛠️ Technologies & Skills
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-- **[Project Two](https://github.com/yourusername/project-two)**  
-  A brief description about the project.
-
-- **[Project Three](https://github.com/yourusername/project-three)**  
-  A brief description about the project.
-
-## Technologies & Skills
-
-- Linux
-- DevOps (CI/CD pipelines, automation)
-- Containerization with Docker & Kubernetes
-- Cloud Platforms (AWS, Azure, GCP)
-
-## GitHub Stats
-
-[![Momodou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmomodo&show_icons=true&count_private=true)](https://github.com/cmomodo)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmomodo&layout=compact)](https://github.com/cmomodo)
-
-<!-- Links -->
-[linkedin]: https://www.linkedin.com/in/momodou-ceesay-788058193/
-[twitter]: https://x.com/modoulaminc/
-[medium]: https://medium.com/@ceesay.ml
-[portfolio]: https://cmomodo.com/
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cmomodo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmomodo&layout=compact&langs_count=7&theme=dark"/>
+</div>
