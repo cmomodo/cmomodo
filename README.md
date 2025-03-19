@@ -34,7 +34,7 @@ A comprehensive implementation of a multi-tier VPC architecture using AWS servic
 ### [Project Two](https://github.com/yourusername/project-two)
 A brief description about the project.
 
-### [Project Three](https://github.com/cmomodo/Schedule_service-day4-.git)
+### [ECS Application Deployment](https://github.com/cmomodo/Schedule_service-day4-.git)
 This is an ECS Project from the DevOps all-star challenge. Everything was done in cloud-formation. 
 - Docker: Containerization of the Flask application
 - Amazon ECR: Container registry for storing Docker images
