@@ -31,8 +31,28 @@ A comprehensive implementation of a multi-tier VPC architecture using AWS servic
 - Security Group implementation
 - Multi-region resource management
 
-### [Project Two](https://github.com/yourusername/project-two)
-A brief description about the project.
+### [Full Stack Application](https://github.com/CloudFoodDelivery/order_app.git)
+
+This is a full-stack application created using Terraform that allows customers to place orders and make payments.  It provides an online platform for food delivery.
+
+### Features
+
+* CI/CD Pipelines.
+* IAC/INFRASTRUCURE AS CODE(TERRAFORM)
+* Serverless(Lambda function)
+* Security Scanning using SNYK
+* Notification and Queue Management: Utilizes AWS SNS for notifications and SQS for message queuing to handle asynchronous tasks.
+
+### Technologies Used
+
+* AWS
+* TERRAFORM
+* MYSQL
+* SNYK
+* Github Actions
+
+
+
 
 ### [ECS Application Deployment](https://github.com/cmomodo/Schedule_service-day4-.git)
 This is an ECS Project from the DevOps all-star challenge. Everything was done in cloud-formation. 
